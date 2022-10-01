@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Git Tutorial</title>
+        <title>Git Tutorial - merge command</title>
     </head>
     <body>
         <h1>Git merge Tutorial - merge check</h1>
