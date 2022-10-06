@@ -5,5 +5,6 @@
     <body>
         <h1>Git merge Tutorial - merge check</h1>
         <p>New file created - all merged diles</p>
+        <p>Git pull tutorial</p>
     </body>
 </html>
